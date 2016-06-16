@@ -1,4 +1,4 @@
-# CountWordsInText
+# Count Words In Text
 
 Create a .net application that will solve the following problem. There are no time constraints and you are free to use any resources at your disposal.
 
